@@ -1,3 +1,5 @@
+# Abbandoned see https://github.com/php-api-clients/foundation
+
 # API Client Foundation for PHP 7
 
 [![Build Status](https://travis-ci.org/WyriHaximus/php-api-client.svg?branch=master)](https://travis-ci.org/WyriHaximus/php-api-client)
